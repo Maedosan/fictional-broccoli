@@ -1,3 +1,5 @@
 public class Test {
-	system.out.println("WTF");
+	public static void main(String args[]){
+	System.out.println("WTF");
+	System.out.println("WTF is this");
 }
