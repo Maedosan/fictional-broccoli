@@ -1,4 +1,4 @@
 public Class B{
 public static void main(String args[]){
-	System.out.println("WTF Man");}
+	System.out.println("WT WTF Man");}
 }
