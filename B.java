@@ -1,4 +1,5 @@
-public Class B{
+public class B{
 public static void main(String args[]){
-	System.out.println("WT WTF Man");}
+	System.out.println("WT WTF Man");
+}
 }
